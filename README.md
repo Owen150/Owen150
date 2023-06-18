@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Michael Owen Oduor</h1>
 <h3 align="center">A passionate full stack software developer from Kenya</h3>
 
-- 🌱 I’m currently learning how to **Develop, Train, and Test Machine Learning Models using the Django Framework, Jupyter Notebooks, and the Python programming language.**
+- 🌱 I’m currently learning how to **Develop, Train, and Test Machine Learning Models using the Python programming language, Jupyter Notebooks, and the Django Framework.**
 
-- 💬 Ask me anything about **Android Application Development, Web Application Development using Laravel, ReactJs, and Django Frameworks, Machine Learning Models and Algorithms, as well as queries regarding Programming languages such as PHP, Javascript, Java, Python, C, C++, Ajax, and the Bootstrap Html, CSS, and Js front-end development library.**
+- 💬 Ask me anything related to **Android Application Development, Web Application Development using Laravel, ReactJs, and Django Frameworks, Machine Learning Models and Algorithms, as well as queries regarding Programming languages such as PHP, Javascript, Java, Python, C, C++, Ajax, and the Bootstrap Html, CSS, and Js front-end development library.**
 
 - 📫 How to reach me **michaeloduor50@gmail.com**
 
