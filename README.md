@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael Owen Oduor</h1>
-<h3 align="center">A passionate full stack software developer from Kenya</h3>
+<h3 align="center">A passionate full-stack software developer from Kenya</h3>
 
 - 🌱 I’m currently learning how to **Develop, Train, and Test Machine Learning Models using the Python programming language, Jupyter Notebooks, and the Django Framework.**
 
