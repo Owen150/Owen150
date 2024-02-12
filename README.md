@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning how to **Develop, Train, and Test Machine Learning Models using the Python programming language, Jupyter Notebooks, and the Django Framework.**
 
-- 💬 Ask me anything related to **Web Application Development using Laravel, ReactJs, and Django Frameworks, Android Application Development, Machine Learning Models and Algorithms, queries regarding Programming languages such as PHP, Javascript, Java, Python, SQL, C, C++, Ajax, and the Bootstrap & Tailwind Html, CSS, and Js front-end development libraries.**
+- 💬 Ask me anything related to **Web Application Development using Laravel, AngularJs, ReactJs, and Django Frameworks, Android Application Development using Kotlin and Java programming languages, Training and Testing Machine Learning Models and Algorithms, Computer Graphics using PyCharm IDE and Pycairo library, as well as Restful API development using Spring boot, Java, Java Persistence API(JPA), H2 and MySQL databases.**
 
 - 📫 How to reach me **michaeloduor50@gmail.com**
 
